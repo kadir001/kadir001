@@ -5,8 +5,8 @@ I am a passionate software developer with a keen interest in web development, op
 ## 🚀 About Me
 - 🌱 I’m currently learning advanced JavaScript framework React.
 - 💬 Ask me about anything related to web development, JavaScript, Python, and open-source contributions.
-- 📫 How to reach me: kadirakdemir75@gmail.com (replace with your actual email)
-- ⚡ Fun fact: I love hiking and exploring new places in my free time.
+- 📫 How to reach me: kadirakdemir75@gmail.com.
+- ⚡ Fun fact: I love hiking and exploring new places in my free time. I have done Internet of Things projects and starred this on my YouTube channel.
 
 ## 🛠️ Languages and Tools
 - **Languages**: JavaScript, Python, HTML, CSS, C++
