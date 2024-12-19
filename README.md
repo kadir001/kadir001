@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Kadir 👋
 
-<!--
-**kadir001/kadir001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate software developer with a keen interest in web development, open-source projects, and continuous learning. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning advanced JavaScript framework React.
+- 💬 Ask me about anything related to web development, JavaScript, Python, and open-source contributions.
+- 📫 How to reach me: kadirakdemir75@gmail.com (replace with your actual email)
+- ⚡ Fun fact: I love hiking and exploring new places in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+- **Languages**: JavaScript, Python, HTML, CSS, C++
+- **Frameworks**: React, Node.js, Express.js
+
+
+## 📈 GitHub Stats
+![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadir001&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir001&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir001)
+
+Thank you for visiting my profile. Let's connect and build something amazing together!
