@@ -19,6 +19,6 @@ I am a passionate software developer with a keen interest in web development, op
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir001&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirakdemir1981)
 
 Thank you for visiting my profile. Let's connect and build something amazing together!
