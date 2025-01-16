@@ -5,7 +5,6 @@ I am a passionate software developer with a keen interest in web development, op
 ## 🚀 About Me
 - 🌱 I’m currently learning Full Stack Developer Certification on FreeCodeCamp.
 - 💬 Ask me about anything related to web development, and I like C++ programming language. 
-- 📫 How to reach me: kadirakdemir75@gmail.com.
 - ⚡ Fun fact: I have done Internet of Things projects and starred this on my YouTube channel.
 
 ## 🛠️ Languages and Tools
