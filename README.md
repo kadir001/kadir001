@@ -17,6 +17,8 @@ I am a passionate software developer with a keen interest in web development, op
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir001&layout=compact&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=kadir001)
+
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirakdemir1981)
 
