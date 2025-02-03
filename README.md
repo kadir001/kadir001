@@ -16,8 +16,7 @@ I am a passionate software developer with a keen interest in web development, op
 ![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadir001&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir001&layout=compact&theme=radical)
-[![HitCount](https://hits.dwyl.com/kadir001/kadir001.svg?style=flat-square)](http://hits.dwyl.com/kadir001/kadir001)
-  [![HitCount](https://hits.dwyl.com/kadir001/kadir001.svg?style=flat-square&show=unique)](http://hits.dwyl.com/kadir001/kadir001)
+
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirakdemir1981)
 
