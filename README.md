@@ -1,6 +1,6 @@
 # Hi there, I'm Kadir 👋
 
-I am a passionate software developer with a keen interest in web development, open-source projects, and continuous learning. Welcome to my GitHub profile!
+I am a passionate software developer with a keen interest in web development and continuous learning. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 🌱 I’m currently learning Full Stack Developer Certification on FreeCodeCamp.
