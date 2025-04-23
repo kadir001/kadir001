@@ -8,7 +8,7 @@ I am a passionate software developer with a keen interest in web development and
 - ⚡ Fun fact: I have done Internet of Things projects and starred this on my YouTube channel.
 
 ## 🛠️ Languages and Tools
-- **Languages**: JavaScript, HTML, CSS, C++
+- **Languages**: JavaScript, HTML5, CSS3, C++
 - **Frameworks**: React, Node.js
 
 
