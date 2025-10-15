@@ -11,6 +11,7 @@ I am a passionate software developer with a keen interest in web development and
 - **Languages**:  Javascript, HTML5, CSS3, C++
 - **Frameworks**: React, Node.js
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 
 ## 📈 GitHub Stats
 ![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadir001&show_icons=true&theme=radical)
