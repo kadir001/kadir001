@@ -8,7 +8,7 @@ I am a passionate software developer with a keen interest in web development and
 - ⚡ Fun fact: I have done Internet of Things projects and starred this on my YouTube channel.
 
 ## 🛠️ Languages and Tools
-- **Languages**: ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow), HTML5, CSS3, C++
+- **Languages**:  Javascript, HTML5, CSS3, C++
 - **Frameworks**: React, Node.js
 
 
